@@ -10,3 +10,4 @@ Thus, Braille is used for the symbolic representations. Here is R, and W, and Sp
 
 The name representations of are then Japanese.
 
+We use kagi to harness ki - energy.
